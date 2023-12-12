@@ -1,2 +1,3 @@
-npm i
+npm install
 npm run dev
+http://localhost:6900/api/getmotos
